@@ -1,4 +1,4 @@
 export TARGET_PRODUCT
 
 all:
-	$(MAKE) -C kernel
+	$(MAKE) -C kernel clean all
